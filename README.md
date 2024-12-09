@@ -2,7 +2,8 @@ his repository contains several sets of test instances for the Covering Tour Loc
 Each folder contains a separate readme file with additional information.
 
 
-**1. Test instances\n**
+**1. Test instances**
+
 Test instance names follow their original LRP instance nomenclature and are extended by the number of customers and the covering radius, i.e. the maximum euclidean distance between a customer and a facility such that a customer can be covered by the respective facility. For instance, 'r30x5a-1_150_14_v3' is based on the 'r30x5a-1' instance by Akca et al., and contains 150 customers which can be covered by all facilities that are at most 14 units away.
 
 Each test instances consists of a total of five files:
@@ -15,8 +16,10 @@ Furthermore, files '_cost.json' contain a preprocessed distance cost matrix betw
 
 
 **2. Results**
+
 File Results.zip contains extensive information on the results obtained by both heuristics and the exact approach proposed in https://arxiv.org/abs/2411.17510. For more
 information, please see the readme file.
 
 **3. Plots**
+
 File Plots.zip contains visualizations of the solution processes of both proposed heuristics. For more information, please see the readme file.
