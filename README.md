@@ -19,7 +19,3 @@ Furthermore, files '_cost.json' contain a preprocessed distance cost matrix betw
 
 File Results.zip contains extensive information on the results obtained by both heuristics and the exact approach proposed in https://arxiv.org/abs/2411.17510. For more
 information, please see the readme file.
-
-**3. Plots**
-
-File Plots.zip contains visualizations of the solution processes of both proposed heuristics. For more information, please see the readme file.
