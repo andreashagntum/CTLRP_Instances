@@ -1,4 +1,4 @@
-his repository contains several sets of test instances for the Covering Tour Location Problem. These instances are based on well-known Location Routing Problem benchmark instances and are extended by information on customer positions and coverings. All baseline LRP instances can be found at https://claudio.contardo.org/datasets-source-code/
+This repository contains several sets of test instances for the Covering Tour Location Problem. These instances are based on well-known Location Routing Problem benchmark instances and are extended by information on customer positions and coverings. All baseline LRP instances can be found at https://claudio.contardo.org/datasets-source-code/
 Each folder contains a separate readme file with additional information.
 
 
